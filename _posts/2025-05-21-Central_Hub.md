@@ -6,7 +6,8 @@ date: 2025-05-21
 _This is a central hub for all the ABAP SDK for Google Cloud Community Blogs._\
 _A one stop shop for reading all the blog posts for ABAP SDK for Google Cloud ...._
 
-# **Our Team's SAP and Google Cloud Blog Posts**
+# **ABAP SDK For Google Cloud - Central Blog Hub**
+![Alt text](image_url_or_path "Optional title")
 
 Welcome to the consolidated list of insightful articles authored by our team members. 
 Browse through the categories below to find blogs related to your specific interests in SAP integration with Google Cloud services via ABAP SDK for Google Cloud!
