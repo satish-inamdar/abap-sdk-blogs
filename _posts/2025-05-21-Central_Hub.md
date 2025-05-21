@@ -1,5 +1,5 @@
 ---
-title: "Central Hub"
+title: "Central Blog Hub"
 date: 2025-05-21
 ---
 
@@ -12,7 +12,7 @@ Welcome to our consolidated list of insightful articles authored by our team mem
 Browse through the categories below to find blogs related to your specific interests in SAP integration with Google Cloud services via ABAP SDK for Google Cloud
 
 
-## **AI Related Blogs - Infusing AI via the Vertex AI Platform into SAP Applications**
+## **🤖 AI Related Blogs**
 <table>
   <tr>
    <td style="background-color: #f8fafd"><strong>Blog Title</strong>
@@ -55,7 +55,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **PubSub Related Blogs**
+## **❇️ PubSub Related Blogs**
 
 
 <table>
@@ -105,7 +105,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Eventing Related Blogs**
+## **🟧 Eventing Related Blogs**
 
 
 <table>
@@ -149,7 +149,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Storage Related Blogs**
+## **🗄️ Storage Related Blogs**
 
 
 <table>
@@ -165,7 +165,6 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/archive-your-sap-data-to-googles-cloud-storage-3b6dfe6f79bd">Read Blog →</a>
    </td>
   </tr>
-
   <tr>
    <td style="background-color: #f8fafd">Beyond Read and Write: The ABAP Way to Cloud Storage
    </td>
@@ -183,7 +182,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **ABAP SDK for Google Cloud: Core Features and Other helpful Blogs**
+## **⚙️ ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
 
 
 <table>
@@ -257,7 +256,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Google Maps API Related Blogs**
+## **🗺️ Google Maps API Related Blogs**
 
 
 <table>
@@ -277,7 +276,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Google Cloud Translation Related Blogs**
+## **💠 Google Translation Related Blogs**
 
 
 <table>
@@ -297,7 +296,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Authentication with ABAP SDK for Google Cloud - Blogs**
+## **🔵 Authentication with ABAP SDK for Google Cloud - Blogs**
 
 
 <table>
@@ -323,7 +322,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **Data Governance & Security**
+## **🛃 Data Governance & Security**
 
 
 <table>
@@ -347,7 +346,7 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
-## **BigQuery Connector for SAP**
+## **🟪 BigQuery Connector for SAP**
 <table>
   <tr>
    <td style="background-color: #f8fafd"><strong>Blog Title</strong>
