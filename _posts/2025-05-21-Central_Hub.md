@@ -30,7 +30,7 @@ Browse through the categories below to find blogs related to your specific inter
   <tr>
    <td style="background-color: #f8fafd">A Simple ABAP Agent
    </td>
-   <td style="background-color: #f8fafd"><a href="  https://medium.com/google-cloud/a-simple-abap-agent-cea0058d17b3">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/a-simple-abap-agent-cea0058d17b3">Read Blog →</a>
    </td>
   </tr>
   <tr>
@@ -366,15 +366,21 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
   </tr>
   <tr>
-   <td style="background-color: #f8fafd">Secret Manager with ABAP SDK for Google Cloud
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/secret-manager-with-abap-sdk-for-google-cloud-d508750d6f8a">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
    <td style="background-color: #f8fafd">Setting up JWT based Authentication in ABAP SDK for Google Cloud
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/setting-up-jwt-based-authentication-in-abap-sdk-for-google-cloud-e42eb4ff1432">Read Blog →</a>
+   </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Securely Access Google Cloud resources from external SAP Workloads with Workload Identity Federation
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/securely-access-google-cloud-resources-from-external-sap-workloads-with-workload-identity-c74154099397">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Secret Manager with ABAP SDK for Google Cloud
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/secret-manager-with-abap-sdk-for-google-cloud-d508750d6f8a">Read Blog →</a>
    </td>
   </tr>
 </table>
