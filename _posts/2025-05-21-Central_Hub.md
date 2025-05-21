@@ -50,6 +50,33 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/tag-table-augmented-generation-using-vertex-ai-sdk-in-abap-b50b79f88182">Read Blog →</a>
    </td>
   </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Harnessing Google AI’s Potential Within SAP: Introducing the Vertex AI SDK for ABAP
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/tag-table-augmented-generation-using-vertex-ai-sdk-in-abap-b50b79f88182">Read Blog →</a>
+   </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Transforming SAP use cases with Google’s Vertex AI from within ABAP
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/transforming-sap-use-cases-with-googles-vertex-ai-from-within-abap-5911713ed62d">Read Blog →</a>
+   </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Invoke Gemini AI models from SAP applications
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/invoke-gemini-ai-models-from-sap-applications-c6005f18af0d">Read Blog →</a>
+   </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Automating Sales Order Entry in SAP using Google Cloud's AI services
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/automating-sales-order-entry-in-sap-using-google-clouds-ai-services-5b513069cb80
+">Read Blog →</a>
+   </td>
+  </tr>
+
+
 
 </table>
 
@@ -101,6 +128,12 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/using-abap-daemons-to-pull-subscriptions-from-google-pubsub-eb6d1ef3b0d4">Read Blog →</a>
    </td>
   </tr>
+    <tr>
+   <td style="background-color: #f8fafd"> Demystifying Pub/Sub: An Introduction to Asynchronous Communication
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/demystifying-pub-sub-an-introduction-to-asynchronous-communication-78ed1268109b">Read Blog →</a>
+   </td>
+  </tr>
 </table>
 
 
@@ -145,6 +178,18 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/launched-abap-sdk-v1-10-unleashing-powerful-ai-ml-eventing-and-storage-capabilities-51967a7cbd88">Read Blog →</a>
    </td>
   </tr>
+    <tr>
+   <td style="background-color: #f8fafd">Send Event from SAP to Pub/Sub: Enabling SAP as a Pub/Sub Publisher
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/enabling-sap-as-a-pub-sub-publisher-unleashing-data-integration-with-google-cloud-79718a21f2cc">Read Blog →</a>
+   </td>
+  </tr>
+      <tr>
+   <td style="background-color: #f8fafd">Streamlining Data Integration: Consuming Events from Pub/Sub into SAP using ABAP SDK for Google Cloud
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/streamlining-data-integration-consuming-events-from-pub-sub-into-sap-using-abap-sdk-for-google-3cfae85d0584">Read Blog →</a>
+   </td>
+  </tr>
 </table>
 
 
@@ -171,7 +216,6 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/beyond-read-and-write-the-abap-way-to-cloud-storage-22953cf0dd15">Read Blog →</a>
    </td>
   </tr>
-
   <tr>
    <td style="background-color: #f8fafd">Launched: ABAP SDK v1.10 unleashing Powerful AI/ML, Eventing, and Storage Capabilities
    </td>
@@ -180,8 +224,24 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
+## **🔷 Google Workspace Related Blogs**
+<table>
+  <tr>
+   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   </td>
+   <td style="background-color: #f8fafd"><strong>Link</strong>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd"> Efficiently Migrating Excel Files to Google Sheets in Enterprise Cloud Migrations
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/efficiently-migrating-excel-files-to-google-sheets-in-enterprise-cloud-migrations-ebc07eb803da">Read Blog →</a>
+   </td>
+  </tr>
+</table>
 
-
+ 
+  
 ## **⚙️ ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
 
 
@@ -196,6 +256,12 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd">Launched: ABAP SDK v1.10 unleashing Powerful AI/ML, Eventing, and Storage Capabilities
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/launched-abap-sdk-v1-10-unleashing-powerful-ai-ml-eventing-and-storage-capabilities-51967a7cbd88">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">ABAP SDK for Google Cloud v1.9
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/abap-sdk-for-google-cloud-v1-9-88e9c193c49e">Read Blog →</a>
    </td>
   </tr>
   <tr>
@@ -227,6 +293,13 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/abap-sdk-for-google-cloud-pro-tips-tricks-for-developers-7a601c5a7050">Read Blog →</a>
    </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd">ABAP SDK for Google Cloud: Code Wizard
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/abap-sdk-for-google-cloud-code-wizard-d34a878f24db">Read Blog →</a>
+   </td>
+  </tr>
   <tr>
    <td style="background-color: #f8fafd">Secret Manager with ABAP SDK for Google Cloud
    </td>
@@ -261,9 +334,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -376,6 +449,40 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd">Understanding BigQuery Connector for SAP’s Compression Feature
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/understanding-bigquery-connector-for-saps-compression-feature-969a438c668d">Read Blog →</a>
+   </td>
+  </tr>
+</table>
+
+## **🟩 OpenAPI Generator for ABAP SDK for Google Cloud**
+<table>
+  <tr>
+   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   </td>
+   <td style="background-color: #f8fafd"><strong>Link</strong>
+   </td>
+  </tr>
+    <tr>
+   <td style="background-color: #f8fafd"><strong>Part 1: Introduction to Open API Generator for ABAP SDK for Google Cloud</strong>
+   </td>
+   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-1-introduction-to-open-api-generator-for-abap-sdk-for-google-cloud-dc54c6771594">Read Blog →</a>
+   </td>
+  </tr>
+      <tr>
+   <td style="background-color: #f8fafd"><strong>Part 2: Creation of a Simple Google Cloud Function that simulates a Shipping Status API</strong>
+   </td>
+   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-2-creation-of-a-simple-google-cloud-function-that-simulates-a-shipping-status-api-15e4b524fdd2">Read Blog →</a>
+   </td>
+  </tr>
+      <tr>
+   <td style="background-color: #f8fafd"><strong>Part 3: Deployment of Google Cloud Function to API Gateway</strong>
+   </td>
+   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-3-deployment-of-google-cloud-function-to-api-gateway-c1548b263a7b">Read Blog →</a>
+   </td>
+  </tr>
+      <tr>
+   <td style="background-color: #f8fafd"><strong>Part 4: Use OpenAPI Generator to Generate ABAP Artifacts and Call the API</strong>
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/part-4-use-openapi-generator-to-generate-abap-artifacts-and-call-the-api-4cad33b3b08e">Read Blog →</a>
    </td>
   </tr>
 </table>
