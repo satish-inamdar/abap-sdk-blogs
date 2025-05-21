@@ -6,7 +6,6 @@ date: 2025-05-21
 _This is a central hub for all the ABAP SDK for Google Cloud Community Blogs._\
 _A one stop shop for reading all the blog posts for ABAP SDK for Google Cloud ...._
 
-![Alt text](abap_sdk_logo.png "ABAP SDK logo")
 
 # **ABAP SDK For Google Cloud - Central Blog Hub**
 
