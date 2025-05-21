@@ -15,9 +15,9 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🤖 AI Related Blogs**
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #1ac6ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #1ac6ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -75,9 +75,6 @@ Browse through the categories below to find blogs related to your specific inter
 ">Read Blog →</a>
    </td>
   </tr>
-
-
-
 </table>
 
 
@@ -87,9 +84,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #ff6600"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #ff6600"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -143,9 +140,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #79a6d2"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #79a6d2"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -194,14 +191,14 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **🗄️ Storage Related Blogs**
+## **🗄️ Cloud Storage Related Blogs**
 
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #e6e600"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #e6e600"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -227,9 +224,9 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🔷 Google Workspace Related Blogs**
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #ffccff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #ffccff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -247,9 +244,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #99ffdd"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #99ffdd"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -374,9 +371,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #ff9999"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #ff9999"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -400,9 +397,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #ffcc00"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #ffcc00"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -422,9 +419,9 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🟪 BigQuery Connector for SAP**
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #669999"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #669999"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -456,31 +453,31 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🟩 OpenAPI Generator for ABAP SDK for Google Cloud**
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #80ffff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #80ffff"><strong>Link</strong>
    </td>
   </tr>
     <tr>
-   <td style="background-color: #f8fafd"><strong>Part 1: Introduction to Open API Generator for ABAP SDK for Google Cloud</strong>
+   <td style="background-color: #f8fafd">Part 1: Introduction to Open API Generator for ABAP SDK for Google Cloud
    </td>
    <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-1-introduction-to-open-api-generator-for-abap-sdk-for-google-cloud-dc54c6771594">Read Blog →</a>
    </td>
   </tr>
       <tr>
-   <td style="background-color: #f8fafd"><strong>Part 2: Creation of a Simple Google Cloud Function that simulates a Shipping Status API</strong>
+   <td style="background-color: #f8fafd">Part 2: Creation of a Simple Google Cloud Function that simulates a Shipping Status API
    </td>
    <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-2-creation-of-a-simple-google-cloud-function-that-simulates-a-shipping-status-api-15e4b524fdd2">Read Blog →</a>
    </td>
   </tr>
       <tr>
-   <td style="background-color: #f8fafd"><strong>Part 3: Deployment of Google Cloud Function to API Gateway</strong>
+   <td style="background-color: #f8fafd">Part 3: Deployment of Google Cloud Function to API Gateway
    </td>
    <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-3-deployment-of-google-cloud-function-to-api-gateway-c1548b263a7b">Read Blog →</a>
    </td>
   </tr>
       <tr>
-   <td style="background-color: #f8fafd"><strong>Part 4: Use OpenAPI Generator to Generate ABAP Artifacts and Call the API</strong>
+   <td style="background-color: #f8fafd">Part 4: Use OpenAPI Generator to Generate ABAP Artifacts and Call the API
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/part-4-use-openapi-generator-to-generate-abap-artifacts-and-call-the-api-4cad33b3b08e">Read Blog →</a>
    </td>
