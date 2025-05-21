@@ -7,13 +7,13 @@ _This is a central hub for all the ABAP SDK for Google Cloud Community Blogs._\
 _A one stop shop for reading all the blog posts for ABAP SDK for Google Cloud ...._
 
 
-# ABAP SDK For Google Cloud - Central Blog Hub (h1)
+# **ABAP SDK For Google Cloud - Central Blog Hub**
 
 Welcome to the consolidated list of insightful articles authored by our team members. 
 Browse through the categories below to find blogs related to your specific interests in SAP integration with Google Cloud services via ABAP SDK for Google Cloud!
 
 
-## 🤖 AI Related Blogs (h2)
+## **🤖 AI Related Blogs**
 <table>
   <tr>
    <td style="background-color: #9999ff"><strong>Blog Title</strong>
@@ -25,6 +25,18 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd">Google AI-powered automated order/shipment routing in SAP
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/google-ai-powered-automated-order-shipment-routing-in-sap-7ef12531e19c">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">A Simple ABAP Agent
+   </td>
+   <td style="background-color: #f8fafd"><a href="  https://medium.com/google-cloud/a-simple-abap-agent-cea0058d17b3">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">ABAP RAP Agents
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/abap-rap-agents-ceba63797ade">Read Blog →</a>
    </td>
   </tr>
   <tr>
@@ -80,7 +92,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **❇️ PubSub Related Blogs**
+## **❇️  PubSub and Eventing Related Blogs**
 
 
 <table>
@@ -91,21 +103,9 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
   </tr>
   <tr>
-   <td style="background-color: #f8fafd">Send SAP RAP Business Events to external systems using Google Cloud Pub/Sub and ABAP SDK
+   <td style="background-color: #f8fafd"> Demystifying Pub/Sub: An Introduction to Asynchronous Communication
    </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/send-sap-rap-business-events-to-external-systems-using-google-cloud-pub-sub-and-abap-sdk-807772a12557">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Handle erroneous Pub/Sub messages in SAP using ABAP SDK
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/handle-erroneous-pub-sub-messages-in-sap-using-abap-sdk-184f876a234c">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Push CloudEvents from Google Cloud Pub/Sub to SAP
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/push-cloudevents-from-google-cloud-pub-sub-to-sap-be4d70e270cd">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/demystifying-pub-sub-an-introduction-to-asynchronous-communication-78ed1268109b">Read Blog →</a>
    </td>
   </tr>
   <tr>
@@ -115,35 +115,9 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
   </tr>
   <tr>
-   <td style="background-color: #f8fafd">Forward MQTT and AMC Messages to Google PubSub with ABAP SDK
+   <td style="background-color: #f8fafd">Handle erroneous Pub/Sub messages in SAP using ABAP SDK
    </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/forward-mqtt-and-amc-messages-to-google-pubsub-with-abap-sdk-747ab7adbc0e">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Using ABAP Daemons to Pull Subscriptions from Google PubSub
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/using-abap-daemons-to-pull-subscriptions-from-google-pubsub-eb6d1ef3b0d4">Read Blog →</a>
-   </td>
-  </tr>
-    <tr>
-   <td style="background-color: #f8fafd"> Demystifying Pub/Sub: An Introduction to Asynchronous Communication
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/demystifying-pub-sub-an-introduction-to-asynchronous-communication-78ed1268109b">Read Blog →</a>
-   </td>
-  </tr>
-</table>
-
-
-
-## **🟧 Eventing Related Blogs**
-
-
-<table>
-  <tr>
-   <td style="background-color: #9999ff"><strong>Blog Title</strong>
-   </td>
-   <td style="background-color: #9999ff"><strong>Link</strong>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/handle-erroneous-pub-sub-messages-in-sap-using-abap-sdk-184f876a234c">Read Blog →</a>
    </td>
   </tr>
   <tr>
@@ -171,18 +145,18 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
   </tr>
   <tr>
-   <td style="background-color: #f8fafd">Launched: ABAP SDK v1.10 unleashing Powerful AI/ML, Eventing, and Storage Capabilities
+   <td style="background-color: #f8fafd">Using ABAP Daemons to Pull Subscriptions from Google PubSub
    </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/launched-abap-sdk-v1-10-unleashing-powerful-ai-ml-eventing-and-storage-capabilities-51967a7cbd88">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/using-abap-daemons-to-pull-subscriptions-from-google-pubsub-eb6d1ef3b0d4">Read Blog →</a>
    </td>
   </tr>
-    <tr>
+  <tr>
    <td style="background-color: #f8fafd">Send Event from SAP to Pub/Sub: Enabling SAP as a Pub/Sub Publisher
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/enabling-sap-as-a-pub-sub-publisher-unleashing-data-integration-with-google-cloud-79718a21f2cc">Read Blog →</a>
    </td>
   </tr>
-      <tr>
+  <tr>
    <td style="background-color: #f8fafd">Streamlining Data Integration: Consuming Events from Pub/Sub into SAP using ABAP SDK for Google Cloud
    </td>
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/streamlining-data-integration-consuming-events-from-pub-sub-into-sap-using-abap-sdk-for-google-3cfae85d0584">Read Blog →</a>
@@ -191,55 +165,7 @@ Browse through the categories below to find blogs related to your specific inter
 </table>
 
 
-
-## **🗄️ Cloud Storage Related Blogs**
-
-
-<table>
-  <tr>
-   <td style="background-color: #9999ff"><strong>Blog Title</strong>
-   </td>
-   <td style="background-color: #9999ff"><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Archive your SAP Data to Google’s Cloud Storage
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/archive-your-sap-data-to-googles-cloud-storage-3b6dfe6f79bd">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Beyond Read and Write: The ABAP Way to Cloud Storage
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/beyond-read-and-write-the-abap-way-to-cloud-storage-22953cf0dd15">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Launched: ABAP SDK v1.10 unleashing Powerful AI/ML, Eventing, and Storage Capabilities
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/launched-abap-sdk-v1-10-unleashing-powerful-ai-ml-eventing-and-storage-capabilities-51967a7cbd88">Read Blog →</a>
-   </td>
-  </tr>
-</table>
-
-## **🔷 Google Workspace Related Blogs**
-<table>
-  <tr>
-   <td style="background-color: #9999ff"><strong>Blog Title</strong>
-   </td>
-   <td style="background-color: #9999ff"><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd"> Efficiently Migrating Excel Files to Google Sheets in Enterprise Cloud Migrations
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/efficiently-migrating-excel-files-to-google-sheets-in-enterprise-cloud-migrations-ebc07eb803da">Read Blog →</a>
-   </td>
-  </tr>
-</table>
-
-
-## **⚙️ ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
+## **❇️  ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
 
 <table>
   <tr>
@@ -308,7 +234,6 @@ Browse through the categories below to find blogs related to your specific inter
    <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/evaluating-abap-sdk-for-google-cloud-using-abap-platform-trial-1909-on-google-cloud-platform-b69ce7adaa38">Read Blog →</a>
    </td>
   </tr>
-  </tr>
     <tr>
    <td style="background-color: #f8fafd">Conquering SAP Tech Debt: Applying Richard Seroter’s Wisdom with the ABAP SDK
    </td>
@@ -323,10 +248,78 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
+## **❇️  Cloud Storage Related Blogs**
 
+<table>
+  <tr>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
+   </td>
+   <td style="background-color: #9999ff"><strong>Link</strong>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Archive your SAP Data to Google’s Cloud Storage
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/archive-your-sap-data-to-googles-cloud-storage-3b6dfe6f79bd">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Beyond Read and Write: The ABAP Way to Cloud Storage
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/beyond-read-and-write-the-abap-way-to-cloud-storage-22953cf0dd15">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Launched: ABAP SDK v1.10 unleashing Powerful AI/ML, Eventing, and Storage Capabilities
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/launched-abap-sdk-v1-10-unleashing-powerful-ai-ml-eventing-and-storage-capabilities-51967a7cbd88">Read Blog →</a>
+   </td>
+  </tr>
+</table>
+
+## **❇️  Google Workspace Related Blogs**
+<table>
+  <tr>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
+   </td>
+   <td style="background-color: #9999ff"><strong>Link</strong>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd"> Efficiently Migrating Excel Files to Google Sheets in Enterprise Cloud Migrations
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/efficiently-migrating-excel-files-to-google-sheets-in-enterprise-cloud-migrations-ebc07eb803da">Read Blog →</a>
+   </td>
+  </tr>
+</table>
+
+
+
+
+## **🛃 Data Governance & Security**
+
+<table>
+  <tr>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
+   </td>
+   <td style="background-color: #9999ff"><strong>Link</strong>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Is Your SAP Data Truly Protected? The DPDP Act is Here, and the Stakes are High!
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/is-your-sap-data-truly-protected-the-dpdp-act-is-here-and-the-stakes-are-high-81eac043807c">Read Blog →</a>
+   </td>
+  </tr>
+  <tr>
+   <td style="background-color: #f8fafd">Data Loss Prevention Deidentification with ABAP SDK for Google Cloud
+   </td>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/data-loss-prevention-deidentification-with-abap-sdk-for-google-cloud-5a261879141a">Read Blog →</a>
+   </td>
+  </tr>
+</table>
 
 ## **🗺️ Google Maps API Related Blogs**
-
 
 <table>
   <tr>
@@ -344,9 +337,7 @@ Browse through the categories below to find blogs related to your specific inter
 </table>
 
 
-
-## **💠 Google Translation Related Blogs**
-
+## **❇️  Google Translation Related Blogs**
 
 <table>
   <tr>
@@ -365,8 +356,7 @@ Browse through the categories below to find blogs related to your specific inter
 
 
 
-## **🔵 Authentication with ABAP SDK for Google Cloud - Blogs**
-
+## **❇️  Authentication with ABAP SDK for Google Cloud - Blogs**
 
 <table>
   <tr>
@@ -390,32 +380,7 @@ Browse through the categories below to find blogs related to your specific inter
 </table>
 
 
-
-## **🛃 Data Governance & Security**
-
-
-<table>
-  <tr>
-   <td style="background-color: #9999ff"><strong>Blog Title</strong>
-   </td>
-   <td style="background-color: #9999ff"><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Is Your SAP Data Truly Protected? The DPDP Act is Here, and the Stakes are High!
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/is-your-sap-data-truly-protected-the-dpdp-act-is-here-and-the-stakes-are-high-81eac043807c">Read Blog →</a>
-   </td>
-  </tr>
-  <tr>
-   <td style="background-color: #f8fafd">Data Loss Prevention Deidentification with ABAP SDK for Google Cloud
-   </td>
-   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/data-loss-prevention-deidentification-with-abap-sdk-for-google-cloud-5a261879141a">Read Blog →</a>
-   </td>
-  </tr>
-</table>
-
-## **🟪 BigQuery Connector for SAP**
+## **❇️ BigQuery Connector for SAP**
 <table>
   <tr>
    <td style="background-color: #9999ff"><strong>Blog Title</strong>
@@ -449,7 +414,8 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
-## **🟩 OpenAPI Generator for ABAP SDK for Google Cloud**
+
+## **❇️ OpenAPI Generator for ABAP SDK for Google Cloud**
 <table>
   <tr>
    <td style="background-color: #9999ff"><strong>Blog Title</strong>
