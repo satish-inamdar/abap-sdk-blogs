@@ -485,9 +485,11 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
+
+
 ## **👤 🧠 Blog Authors**
-- Ameya Suvarna | [Github](https://github.com/ameya-sap) | [Medium](https://medium.com/@ameyaps_98908)
-- Ajith Urimajalu | [Github](https://github.com/u-ajith) | [Medium](https://medium.com/@uajith)
-- Devesh Singh | [Github](https://github.com/deveshsin) | [Medium](https://medium.com/@deveshsin)
-- Kriti Sugandha | [Github](https://github.com/kritisugandha) | [Medium](https://medium.com/@kritisugandha_958)
-- Satish Inamdar | [Github](https://github.com/satish-inamdar) | [Medium](https://medium.com/@satishinamdar)
+- Ameya Suvarna >  [Github](https://github.com/ameya-sap) > [Medium](https://medium.com/@ameyaps_98908)
+- Ajith Urimajalu > [Github](https://github.com/u-ajith) > [Medium](https://medium.com/@uajith)
+- Devesh Singh > [Github](https://github.com/deveshsin) > [Medium](https://medium.com/@deveshsin)
+- Kriti Sugandha > [Github](https://github.com/kritisugandha) > [Medium](https://medium.com/@kritisugandha_958)
+- Satish Inamdar > [Github](https://github.com/satish-inamdar) > [Medium](https://medium.com/@satishinamdar)
