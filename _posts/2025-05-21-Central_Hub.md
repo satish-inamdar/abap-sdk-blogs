@@ -3,21 +3,21 @@ title: "Central Blog Hub"
 date: 2025-05-21
 ---
 
-This is a central hub for all the ABAP SDK for Google Cloud Community Blogs.
-A One stop shop for browsing all the stuff under the sun for ABAP SDK for Google Cloud
+_This is a central hub for all the ABAP SDK for Google Cloud Community Blogs._\
+_A one stop shop for reading all the blog posts for ABAP SDK for Google Cloud ...._
 
 # **Our Team's SAP and Google Cloud Blog Posts**
 
-Welcome to our consolidated list of insightful articles authored by our team members. 
-Browse through the categories below to find blogs related to your specific interests in SAP integration with Google Cloud services via ABAP SDK for Google Cloud
+Welcome to the consolidated list of insightful articles authored by our team members. 
+Browse through the categories below to find blogs related to your specific interests in SAP integration with Google Cloud services via ABAP SDK for Google Cloud!
 
 
 ## **🤖 AI Related Blogs**
 <table>
   <tr>
-   <td style="background-color: #1ac6ff"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #1ac6ff"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -140,9 +140,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #79a6d2"><strong>Blog Title</strong>
+   <td style="background-color: #80ffcc"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #79a6d2"><strong>Link</strong>
+   <td style="background-color: #80ffcc"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -237,10 +237,9 @@ Browse through the categories below to find blogs related to your specific inter
   </tr>
 </table>
 
- 
+
   
 ## **⚙️ ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
-
 
 <table>
   <tr>
@@ -453,27 +452,27 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🟩 OpenAPI Generator for ABAP SDK for Google Cloud**
 <table>
   <tr>
-   <td style="background-color: #80ffff"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #80ffff"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
     <tr>
    <td style="background-color: #f8fafd">Part 1: Introduction to Open API Generator for ABAP SDK for Google Cloud
    </td>
-   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-1-introduction-to-open-api-generator-for-abap-sdk-for-google-cloud-dc54c6771594">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/part-1-introduction-to-open-api-generator-for-abap-sdk-for-google-cloud-dc54c6771594">Read Blog →</a>
    </td>
   </tr>
       <tr>
    <td style="background-color: #f8fafd">Part 2: Creation of a Simple Google Cloud Function that simulates a Shipping Status API
    </td>
-   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-2-creation-of-a-simple-google-cloud-function-that-simulates-a-shipping-status-api-15e4b524fdd2">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/part-2-creation-of-a-simple-google-cloud-function-that-simulates-a-shipping-status-api-15e4b524fdd2">Read Blog →</a>
    </td>
   </tr>
       <tr>
    <td style="background-color: #f8fafd">Part 3: Deployment of Google Cloud Function to API Gateway
    </td>
-   <td style="background-color: #f8fafd"><a href=https://medium.com/google-cloud/part-3-deployment-of-google-cloud-function-to-api-gateway-c1548b263a7b">Read Blog →</a>
+   <td style="background-color: #f8fafd"><a href="https://medium.com/google-cloud/part-3-deployment-of-google-cloud-function-to-api-gateway-c1548b263a7b">Read Blog →</a>
    </td>
   </tr>
       <tr>
@@ -483,3 +482,10 @@ Browse through the categories below to find blogs related to your specific inter
    </td>
   </tr>
 </table>
+
+## **👤 🧠 Blog Authors**
+- Ameya Suvarna | [Github](https://github.com/ameya-sap) | [Medium](https://medium.com/@ameyaps_98908)
+- Ajith Urimajalu | [Github](https://github.com/u-ajith) | [Medium](https://medium.com/@uajith)
+- Devesh Singh | [Github](https://github.com/deveshsin) | [Medium](https://medium.com/@deveshsin)
+- Kriti Sugandha | [Github](https://github.com/kritisugandha) | [Medium](https://medium.com/@kritisugandha_958)
+- Satish Inamdar | [Github](https://github.com/satish-inamdar) | [Medium](https://medium.com/@satishinamdar)
