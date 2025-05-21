@@ -85,9 +85,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #ff6600"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #ff6600"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -141,9 +141,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #80ffcc"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #80ffcc"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -197,9 +197,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #e6e600"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #e6e600"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -225,9 +225,9 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🔷 Google Workspace Related Blogs**
 <table>
   <tr>
-   <td style="background-color: #ffccff"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #ffccff"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -244,9 +244,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #99ffdd"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #99ffdd"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -351,9 +351,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #f8fafd"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #f8fafd"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -371,9 +371,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #ff9999"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #ff9999"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -397,9 +397,9 @@ Browse through the categories below to find blogs related to your specific inter
 
 <table>
   <tr>
-   <td style="background-color: #ffcc00"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #ffcc00"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
@@ -419,9 +419,9 @@ Browse through the categories below to find blogs related to your specific inter
 ## **🟪 BigQuery Connector for SAP**
 <table>
   <tr>
-   <td style="background-color: #669999"><strong>Blog Title</strong>
+   <td style="background-color: #9999ff"><strong>Blog Title</strong>
    </td>
-   <td style="background-color: #669999"><strong>Link</strong>
+   <td style="background-color: #9999ff"><strong>Link</strong>
    </td>
   </tr>
   <tr>
