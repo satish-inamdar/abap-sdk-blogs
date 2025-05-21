@@ -239,7 +239,6 @@ Browse through the categories below to find blogs related to your specific inter
 </table>
 
 
-  
 ## **⚙️ ABAP SDK for Google Cloud: Core Features and Other Helpful Blogs**
 
 <table>
