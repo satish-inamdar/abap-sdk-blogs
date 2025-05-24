@@ -1,0 +1,37 @@
+site_name: ABAP SDK for Google Cloud - Central Blog Hub
+site_url: https://satish-inamdar.github.io/abap-sdk-blogs/
+theme:
+  name: material
+  font:
+    text: Monsterrat
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: deep purple
+      accent: green
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+# Custom CSS
+extra_css:
+  - stylesheets/custom.css
+

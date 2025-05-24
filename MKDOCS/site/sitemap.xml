@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/ABAP_SDK_Blogs/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/AI_Blogs/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/Authentication/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/BigQuery_Connector_for_SAP/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/Google_Cloud_Services_Integration/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/Open_API_Generator/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+    <url>
+         <loc>https://satish-inamdar.github.io/abap-sdk-blogs/PubSub_and_Eventing_Blogs/</loc>
+         <lastmod>2025-05-24</lastmod>
+    </url>
+</urlset>
